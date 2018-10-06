@@ -1,0 +1,42 @@
+.container {
+     width: 33%;
+     float: left;
+ }
+
+.main-menu {
+    border-radius: 6px;
+    display: block;
+    background-color: cadetblue;
+}
+
+.main-menu ul {
+    list-style-type: none;
+    overflow: auto;
+}
+
+.main-menu ul li {
+    float: left;
+    width: 33%;
+}
+
+.main-menu ul li a {
+    float: left;
+    text-decoration: none;
+    padding: 15px;
+    color: black;
+}
+
+.main-menu ul li a:hover {
+    background-color: aqua;
+    color: firebrick;
+}
+
+.image-fromat img {
+
+    border-radius: 19px;
+}
+
+.header h1 {
+    background-color: gray;
+}
+
